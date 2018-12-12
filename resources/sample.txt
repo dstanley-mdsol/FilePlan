@@ -11,7 +11,7 @@
 // Zones have variable amount of sub-folders for Section
 // Sections contain the 0 byte files which are Artifacts
 //
-// FilePlanNode variable mappings
+// FilePlanEntry mappings
 // Zone,Section,Artifact,Study,Country,Site
 01 Trial Management,01.01 Trial Oversight,01.01.01 Trial Master File Plan,X,X,X
 01 Trial Management,01.01 Trial Oversight,01.01.02 Trial Management Plan,X,0,X
